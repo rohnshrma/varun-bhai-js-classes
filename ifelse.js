@@ -28,3 +28,30 @@ if (num > 0) { // Checks if 'num' is greater than 0
 } else { // If all conditions above are false (i.e., num is neither > 0 nor < 0), this block runs
     console.log(`${num} is zero`); // Logs that the number is zero using template literal
 }
+
+
+
+// Task 1: Check if a Number is Even or Odd
+// Prompt the user for a number
+// Use if-else to check if the number is even (divisible by 2) or odd
+// Display the result with a message like "X is even" or "X is odd"
+
+// Task 2: Determine if a Person is a Child, Teen, or Adult
+// Prompt the user for their age
+// Use if, else if, and else to check: child (under 13), teenager (13 to 19), adult (20 or above)
+// Display the appropriate category message
+
+// Task 3: Check if a String is "Hello"
+// Prompt the user for a word
+// Use if-else to check if the input matches "Hello" exactly
+// Display a message confirming if they said "Hello" or not
+
+// Task 4: Compare Two Numbers
+// Prompt the user for two numbers
+// Use if, else if, and else to check if the first is greater, less than, or equal to the second
+// Display the relationship in a message like "X is greater than Y"
+
+// Task 5: Check if a Temperature is Hot, Cold, or Moderate
+// Prompt the user for a temperature in degrees Celsius
+// Use if, else if, and else to check: hot (above 30), cold (below 10), moderate (10 to 30)
+// Display the appropriate temperature category message
