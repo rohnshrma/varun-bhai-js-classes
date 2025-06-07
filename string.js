@@ -143,3 +143,6 @@ var txt = "my name is john doe";
 // var res = txt.search(/[aeiou]/g);
 
 // console.log(res);
+
+
+
